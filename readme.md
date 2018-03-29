@@ -1,4 +1,14 @@
 # Pitch Perfect Project (Intro to iOS Development)
+
+## Introduction
+This app records a conversation with you and a friend and plays it back to make you sound like a chipmunk or Darth Vader! Currently Six different Voice-Effects are supported.
+
+## Screen shots
+![](https://raw.githubusercontent.com/floydchenchen/pictures/master/Screen%20Shot%202018-03-29%20at%202.57.47%20AM.png)
+![](https://raw.githubusercontent.com/floydchenchen/pictures/master/Screen%20Shot%202018-03-29%20at%203.00.01%20AM.png)
+
+
+
 ## Lesson 1: Course Map
 * intro to xcode
 * Auto Layout and Buttons
